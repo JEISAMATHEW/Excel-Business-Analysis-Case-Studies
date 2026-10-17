@@ -114,9 +114,9 @@ Final Business Recommendation
 ```text
 Excel-Business-Analysis-Case-Studies/
 │
-├── Excel_Case_Studies.xlsx
+├── EXCEL ASSIGNMENT – Case Studies.xlsx
 ├── README.md
-├── Excel_Case_Studies_Report.docx
+├── Excel_Business_Analysis_Practical_Case_Studies.docx
 ├── Case_Study_Demo.mp4
 ├── Gantt_Chart_Output.png
 └── Forecast_Chart_Output.png
